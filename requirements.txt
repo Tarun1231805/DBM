@@ -23,7 +23,7 @@ pymongo==3.12.3
 python-dateutil==2.7.5
 pytz==2022.5
 pyunicode==0.0.3
-PyYAML==5.4.1
+PyYAML==3.13
 regex==2022.10.31
 related-mltoolbox==1.0.1
 requests==2.28.1
