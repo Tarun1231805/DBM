@@ -11,7 +11,6 @@ colorama
 Flask
 future
 gunicorn
-gcc==7.3.0
 idna
 itsdangerous
 Jinja2
