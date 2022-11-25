@@ -2,7 +2,7 @@ attrs==19.3.0
 certifi==2022.9.24
 charset-normalizer==2.1.1
 chatbot==1.1b0
-ChatterBot==1.0.0
+ChatterBot
 chatterbot-corpus==1.2.0
 chatterbot_corpus
 click==8.1.3
