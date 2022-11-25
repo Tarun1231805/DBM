@@ -14,7 +14,7 @@ idna==3.4
 itsdangerous==2.1.2
 Jinja2==3.0
 joblib==1.2.0
-MarkupSafe==2.0.1
+MarkupSafe==2.1.1
 mathparse==0.1.2
 nltk==3.7
 Pint==0.20.1
