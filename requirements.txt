@@ -32,6 +32,7 @@ ruamel.appconfig
 ruamel.std.argparse
 six
 SQLAlchemy
+setuptools
 tqdm
 urllib3
 Werkzeug
