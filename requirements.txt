@@ -11,7 +11,7 @@ colorama
 Flask
 future
 gunicorn
-gcc-c++
+g++
 idna
 itsdangerous
 Jinja2
