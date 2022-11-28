@@ -1,1 +1,1 @@
-web: gunicorn Looksgood:app
+web:gunicorn app:app
